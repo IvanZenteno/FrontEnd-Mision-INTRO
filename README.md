@@ -7,13 +7,15 @@ Ejercicios aplicados a la primer semana de trabajo:
 
 1.- Toma de Requerimientos
 
-2.- Buyer Persona
+2.- Modelamiento de Negocio
 
-3.- Público Objetivo
+3.- Buyer Persona
 
-4.- Wireframe UX
+4.- Público Objetivo
 
-5.- UI
+5.- Wireframe UX
+
+6.- UI
 
 
 Todos las evidencias de realización están adjuntas en el repositorio.
